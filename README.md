@@ -10,7 +10,7 @@ collection of books in different topics.
 1. click on the repository
 2. click on the topic which you want
 3. choose wanted book
-4. press on download option above
+4. press on download option above or use online reading 
 
 # Contributing
 add more books with license 
